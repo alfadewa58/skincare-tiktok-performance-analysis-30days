@@ -133,7 +133,7 @@ Data dikumpulkan menggunakan scraper TikTok berbasis Python yang mengekstrak inf
 
 ### 1. Analisis Konten Berbasis AI
 Kami menggunakan Google Gemini AI untuk:
-- Mengklasifikasikan konten ke dalam 4 kategori utama
+- Mengklasifikasikan konten ke dalam beberapa kategori utama
 - Mengekstrak kata kunci bermakna dari deskripsi
 - Memberikan pemahaman semantik yang lebih dalam dibandingkan NLP tradisional
 
@@ -154,7 +154,48 @@ Video diklasifikasikan ke dalam beberapa kategori utama seperti:
 - Chart distribusi untuk jenis konten
 - Perbandingan metrik engagement di berbagai kategori
 
-Contoh hasil ekstrak Gemini AI
+### Contoh hasil ekstrak Gemini AI
+**Analisis Kata Kunci TikTok - MS Glow**
+
+**20 Kata Kunci Teratas (MS Glow)**
+| Kata Kunci         | Frekuensi |
+|--------------------|----------|
+| msglow            | 🔥🔥🔥🔥🔥 |
+| msglowbeauty      | 🔥🔥🔥🔥🔥 |
+| skincare          | 🔥🔥🔥🔥 |
+| glowing           | 🔥🔥🔥 |
+| kulitcerah        | 🔥🔥🔥 |
+| promo            | 🔥🔥🔥 |
+| mskincare         | 🔥🔥 |
+| msglowid         | 🔥🔥 |
+| msglowshop       | 🔥🔥 |
+| msglowofficial   | 🔥🔥 |
+
+**Insight:**  
+- Kata kunci paling sering digunakan adalah **"msglow"**, **"msglowbeauty"**, dan **"skincare"**.  
+- Banyak kata kunci berhubungan dengan **manfaat produk** (glowing, kulitcerah).  
+- Branding masih bervariasi (**msglowid, msglowshop, msglowofficial**), yang bisa mempengaruhi pencarian.
+
+---
+
+**15 Kata Kunci dengan Engagement Tertinggi**
+| Kata Kunci        | Engagement 🔥🔥🔥 |
+|------------------|------------------|
+| glowprize       | 🔥🔥🔥🔥🔥 |
+| glowtospain     | 🔥🔥🔥🔥🔥 |
+| Barcelona       | 🔥🔥🔥🔥🔥 |
+| EliteGlowbal    | 🔥🔥🔥🔥 |
+| beauty         | 🔥🔥🔥 |
+| keseruan        | 🔥🔥🔥 |
+| seller         | 🔥🔥🔥 |
+| bestskincare    | 🔥🔥 |
+| skincareaddict  | 🔥🔥 |
+| reviewmsglow   | 🔥🔥 |
+
+**Temuan Penting:**  
+- **Campaign hadiah** seperti *glowprize* dan *glowtospain* menarik engagement tertinggi.  
+- Branding seperti **"EliteGlowbal"** memiliki keterlibatan tinggi, menunjukkan efektivitas promosi seller dan reseller.  
+- Kata seperti **"keseruan"** dan **"seller"** menunjukkan strategi pemasaran berbasis komunitas.
 
 ---
 
@@ -233,23 +274,23 @@ Strategi terbaik adalah menggabungkan konsistensi Somethinc dengan efektivitas e
 
 Selama bulan Ramadan, perilaku konsumen berubah. Berikut adalah beberapa ide konten yang dapat meningkatkan engagement:
 
-#### 🌙 **Tutorial Makeup Ramadan-Friendly**
+#### **Tutorial Makeup Ramadan-Friendly**
 - Makeup natural dan sederhana sesuai dengan semangat Ramadan.
 - Contoh: "Makeup glowing tapi tetap fresh selama puasa!"
 
-#### 💧 **Tips Perawatan Kulit Selama Puasa**
+#### **Tips Perawatan Kulit Selama Puasa**
 - Cara menjaga kelembapan kulit meski kurang minum.
 - Produk yang cocok untuk kulit kering saat puasa.
 
-#### 🎥 **Kolaborasi dengan Influencer**
+#### **Kolaborasi dengan Influencer**
 - Ajak influencer berbagi rutinitas skincare Ramadan.
 - Contoh: "Influencer A berbagi night skincare routine selama Ramadan!"
 
-#### 🔬 **Konten Edukatif tentang Kandungan Produk**
+#### **Konten Edukatif tentang Kandungan Produk**
 - Jelaskan bahan skincare yang aman dan halal.
 - Misal: "Apakah skincare dengan alkohol tetap halal?"
 
-#### 🎙 **Live Q&A Seputar Skincare**
+#### **Live Q&A Seputar Skincare**
 - Jawab pertanyaan audiens tentang perawatan kulit di bulan puasa.
 - Meningkatkan interaksi dan engagement.
 
