@@ -2,7 +2,7 @@
 
 ## Analisis Komprehensif Konten untuk Brand Skincare 30 Hari
 
-Proyek ini berisi kumpulan script Python dan notebook Jupyter untuk menganalisis performa konten TikTok brand skincare, dengan fokus pada ekstraksi insight berharga untuk optimasi strategi konten. Dan juga menggunakan AI untuk ekstrak kata penting.
+Proyek ini berisi notebook Jupyter untuk menganalisis performa konten TikTok brand skincare, dengan fokus pada ekstraksi insight berharga untuk optimasi strategi konten. Dan juga menggunakan AI untuk ekstrak kata penting.
 
 Nantinya kita akan mengimplementasikan AI dan pada project ini saya menggunakan Gemini AI, karena:
 
