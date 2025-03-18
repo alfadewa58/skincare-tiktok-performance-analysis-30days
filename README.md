@@ -225,6 +225,8 @@ Strategi terbaik adalah menggabungkan konsistensi Somethinc dengan efektivitas e
 - Tambah 2-3 video tutorial per minggu dengan influencer → Target: Share rate 1.1% - 2%
 - Gunakan UGC (User-Generated Content) untuk meningkatkan trust → Target: Engagement rate 0.96% → 1.3%
 
+---
+
 ### Rekomendasi Konten TikTok Skincare di Bulan Ramadan
 
 ### 1. Strategi Konten TikTok untuk Brand Skincare
@@ -251,13 +253,14 @@ Selama bulan Ramadan, perilaku konsumen berubah. Berikut adalah beberapa ide kon
 - Jawab pertanyaan audiens tentang perawatan kulit di bulan puasa.
 - Meningkatkan interaksi dan engagement.
 
+---
 
-### 3. Daftar Influencer dengan Budget di Bawah 50 Juta
+### 2. Daftar Influencer dengan Budget di Bawah 50 Juta
 
-#### 📌 **Micro-Influencer (10k – 50k pengikut)**
+#### **Micro-Influencer (10k – 50k pengikut)**
 - Harga endorse: **Rp 1 juta – Rp 5 juta**.
 
-#### 📌 **Mid-Tier Influencer (50k – 500k pengikut)**
+#### **Mid-Tier Influencer (50k – 500k pengikut)**
 - Harga endorse: **Rp 5 juta – Rp 50 juta**.
 
 **Rekomendasi platform untuk mencari influencer:**
