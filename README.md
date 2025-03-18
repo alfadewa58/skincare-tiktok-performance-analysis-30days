@@ -211,19 +211,58 @@ Strategi terbaik adalah menggabungkan konsistensi Somethinc dengan efektivitas e
 
 ### Rekomendasi Strategi Konten
 1. Somethinc  (Konsisten & Engagement Baik)
-- Tambah 20-30% konten promo & diskon (2-3x/minggu) → Target: Engagement rate 0.89% → 1.2%
-- Gunakan 20-30 influencer mikro per bulan → Target: Share rate 1.2% → 2%
-- Buat challenge interaktif (ex: "Somethinc Shade Match") → Target: Komentar 120 → 200/video
+- Tambah 20-30% konten promo & diskon (2-3x/minggu) → Target: Engagement rate bertambah  0.89% - 1.2%
+- Gunakan 20-30 influencer mikro per bulan → Target: Share rate bertambah 1.2% - 2%
+- Buat challenge interaktif (ex: "Somethinc Shade Match") → Target: Komentar bertambah 120 - 200/video
 
 2. Scarlett Whitening  (Views Tinggi, Engagement Rendah)
-- Buat 50% lebih banyak konten berbasis aroma & storytelling → Target: Like rate 0.8% → 1.5%
-- Gunakan 5-7 influencer besar per bulan → Target: Engagement rate 0.15% → 0.6%
-- Buat 1 video edukasi keaslian produk per minggu → Target: Share rate 0.5% → 1%
+- Buat 50% lebih banyak konten berbasis aroma & storytelling → Target: Like rate bertambah  0.8% - 1.5%
+- Gunakan 5-7 influencer besar per bulan → Target: Engagement rate bertambah  0.15% - 0.6%
+- Buat 1 video edukasi keaslian produk per minggu → Target: Share rate bertambah  0.5% - 1%
 
 3. MS Glow  (Engagement Tertinggi, Butuh Lebih Banyak Views)
 - Optimalkan komunitas reseller (Elite Glowbal) dengan video testimonial → Target: Save rate 0.7% → 1.5%
-- Tambah 2-3 video tutorial per minggu dengan influencer → Target: Share rate 1.1% → 2%
+- Tambah 2-3 video tutorial per minggu dengan influencer → Target: Share rate 1.1% - 2%
 - Gunakan UGC (User-Generated Content) untuk meningkatkan trust → Target: Engagement rate 0.96% → 1.3%
+
+### Rekomendasi Konten TikTok Skincare di Bulan Ramadan
+
+### 1. Strategi Konten TikTok untuk Brand Skincare
+
+Selama bulan Ramadan, perilaku konsumen berubah. Berikut adalah beberapa ide konten yang dapat meningkatkan engagement:
+
+#### 🌙 **Tutorial Makeup Ramadan-Friendly**
+- Makeup natural dan sederhana sesuai dengan semangat Ramadan.
+- Contoh: "Makeup glowing tapi tetap fresh selama puasa!"
+
+#### 💧 **Tips Perawatan Kulit Selama Puasa**
+- Cara menjaga kelembapan kulit meski kurang minum.
+- Produk yang cocok untuk kulit kering saat puasa.
+
+#### 🎥 **Kolaborasi dengan Influencer**
+- Ajak influencer berbagi rutinitas skincare Ramadan.
+- Contoh: "Influencer A berbagi night skincare routine selama Ramadan!"
+
+#### 🔬 **Konten Edukatif tentang Kandungan Produk**
+- Jelaskan bahan skincare yang aman dan halal.
+- Misal: "Apakah skincare dengan alkohol tetap halal?"
+
+#### 🎙 **Live Q&A Seputar Skincare**
+- Jawab pertanyaan audiens tentang perawatan kulit di bulan puasa.
+- Meningkatkan interaksi dan engagement.
+
+
+### 3. Daftar Influencer dengan Budget di Bawah 50 Juta
+
+#### 📌 **Micro-Influencer (10k – 50k pengikut)**
+- Harga endorse: **Rp 1 juta – Rp 5 juta**.
+
+#### 📌 **Mid-Tier Influencer (50k – 500k pengikut)**
+- Harga endorse: **Rp 5 juta – Rp 50 juta**.
+
+**Rekomendasi platform untuk mencari influencer:**
+- [SociaBuzz](https://sociabuzz.com/micro-influencer/indonesia?utm_source=chatgpt.com)  
+- [JuraganCOD](https://juragancod.com/artikel/inilah-harga-endorsement-ke-influencer-selebgram-seleb-tiktok-dan-artis-indonesia/?utm_source=chatgpt.com)  
 
 ---
 
