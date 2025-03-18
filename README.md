@@ -262,9 +262,9 @@ Strategi terbaik adalah menggabungkan konsistensi Somethinc dengan efektivitas e
 - Buat 1 video edukasi keaslian produk per minggu → Target: Share rate bertambah  0.5% - 1%
 
 3. MS Glow  (Engagement Tertinggi, Butuh Lebih Banyak Views)
-- Optimalkan komunitas reseller (Elite Glowbal) dengan video testimonial → Target: Save rate 0.7% → 1.5%
-- Tambah 2-3 video tutorial per minggu dengan influencer → Target: Share rate 1.1% - 2%
-- Gunakan UGC (User-Generated Content) untuk meningkatkan trust → Target: Engagement rate 0.96% → 1.3%
+- Optimalkan komunitas reseller (Elite Glowbal) dengan video testimonial → Target: Save rate bertambah 0.7% - 1.5%
+- Tambah 2-3 video tutorial per minggu dengan influencer → Target: Share rate bertambah 1.1% - 2%
+- Gunakan UGC (User-Generated Content) untuk meningkatkan trust → Target: Engagement rate naik dari 0.96% → 1.3%
 
 ---
 
