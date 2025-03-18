@@ -227,7 +227,7 @@ Strategi terbaik adalah menggabungkan konsistensi Somethinc dengan efektivitas e
 
 ---
 
-### Rekomendasi Konten TikTok Skincare di Bulan Ramadan
+## Rekomendasi Konten TikTok Skincare di Bulan Ramadan
 
 ### 1. Strategi Konten TikTok untuk Brand Skincare
 
